@@ -1,6 +1,10 @@
 <!DOCTYPE html>
   <!--Doug Mobley 11/11/2025-->
   <html lang="en">
-  <title>CMT421</title>
   <meta charset="utf-8">
+  <head>
+    <title>CMT421</title>
+  </head>
+  <body>
+    <h1> Go To Home </h1>
 </html>
