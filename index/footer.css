@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.footertext {
+    text-align: center;
+    text-decoration: none;
+    font-style: oblique;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: 50px;
+    border: thick ridge #D400FF;
+}
+blockquote footer .footertext {
+}
