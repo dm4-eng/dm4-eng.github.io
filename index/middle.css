@@ -1,6 +1,6 @@
 @charset "UTF-8";
 .middlecontent {
-    width: 100%;
+    width: 95%;
     padding-top: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
@@ -8,7 +8,7 @@
     height: auto;
     float: left;
     clear: left;
-    text-align: right;
+    text-align: center;
 }
 .pics {
     width: 100%;
