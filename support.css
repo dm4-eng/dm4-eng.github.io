@@ -15,3 +15,6 @@ supportpage {
     text-shadow: 0.5px 0.5px #050069;
     border: medium double #FF0004;
 }
+.bottomfooter {
+    padding-bottom: 50px;
+}
