@@ -3,4 +3,18 @@ supportpage {
     width: 1200px;
 }
 .supportpage {
+    width: 100%;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    float: left;
+    font-variant: normal;
+    font-weight: 400;
+    font-size: medium;
+    text-shadow: 0.5px 0.5px #050069;
+    border: medium double #FF0004;
+}
+.bottomfooter {
+    padding-bottom: 50px;
 }
